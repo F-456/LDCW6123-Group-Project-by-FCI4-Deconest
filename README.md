@@ -6,4 +6,4 @@
 <h2>19 September<h2>
 <p>Invited collaborators to the wix collaborators- Low Zheng Hao<p>
 <h2>20 September</h2>
-<p>Finished all the details of the page</p>
+<p>Finished all the details of the page<p>
